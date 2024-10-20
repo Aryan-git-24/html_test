@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists</title>
+</head>
+<body>
+    <ol type="I">
+        <li>C</li>
+        <ol type="a">
+            <li>datatypes</li>
+            <li>functions</li>
+            <li>loop</li>
+        </ol>
+        <LI>JAVA</LI>
+        <ol type="a">
+            <li>datatypes</li>
+            <li>functions</li>
+            <li>loop</li>
+        </ol>
+        <LI>HTML</LI>
+        <LI>C++</LI>
+        <ol type="a">
+            <li>datatypes</li>
+            <li>functions</li>
+            <li>loop</li>
+        </ol>
+    </ol>
+</body>
+</html>
